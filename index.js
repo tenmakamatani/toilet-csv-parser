@@ -1,15 +1,14 @@
-const csv = require('csv-parser');
-const fs = require('fs');
+import csv from 'csv-parser';
+import fs from 'fs';
 const results = [];
+
+import { save } from './libs/save';
 
 const main = () => {
   fs.createReadStream('assets/toilet.csv')
     .pipe(csv())
     .on('data', (data) => results.push(data))
     .on('end', () => {
-      results.forEach(result => {
-        console.log(result['ID']);
-      })
       console.log(`計: ${results.length}件`)
     });
 }
