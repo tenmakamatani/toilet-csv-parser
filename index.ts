@@ -1,5 +1,5 @@
-import csv from 'csv-parser';
-import fs from 'fs';
+import * as csv from 'csv-parser';
+import * as fs from 'fs';
 const results = [];
 
 import { save } from './libs/save';
