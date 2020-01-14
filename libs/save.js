@@ -8,10 +8,10 @@ const save = (results) => {
     fs.unlinkSync(outputPath);
   }
   // Change structure
-  results.forEach(results => {
-    results['概略'] = results['概略'].split('\n');
-    results['開館時間'] = results['開館時間'].split('\n');
-    results['料金'] = results['料金'].split('\n');
+  results.forEach(result => {
+    result['概略'] = result['概略'].split('\n');
+    result['開館時間'] = result['開館時間'].split('\n');
+    result['料金'] = result['料金'].split('\n');
   })
   // Create json
   fs.writeFileSync(outputPath, JSON.stringify(results, null, '\t'));
