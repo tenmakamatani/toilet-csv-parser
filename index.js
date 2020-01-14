@@ -8,8 +8,8 @@ const main = () => {
   fs.createReadStream('assets/toilet.csv')
     .pipe(csv())
     .on('data', (data) => results.push(data))
-    .on('end', async () => {
-      await save(results);
+    .on('end', () => {
+      save(results);
       console.log(`計: ${results.length}件`)
     });
 }
