@@ -24,7 +24,6 @@ export interface INotMultiPurposeToilet {
 // 多目的トイレの概略部分
 export interface IMultiPurposeToilet {
   genderDistinction: Existence; // 男女の区別
-  hotWaterWashing: number;      // 温水洗浄機能
   num: number;                  // 数
   wheelChair: number;           // 車椅子
   ostomate: number;             // オストメイト
