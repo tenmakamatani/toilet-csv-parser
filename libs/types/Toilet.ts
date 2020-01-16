@@ -23,7 +23,7 @@ export interface INotMultiPurposeToilet {
 
 // 多目的トイレの概略部分
 export interface IMultiPurposeToilet {
-  genderDistinction: Existence; // 男女の区別
+  genderDistinction: boolean; // 男女の区別
   num: number;                  // 数
   wheelChair: number;           // 車椅子
   ostomate: number;             // オストメイト
@@ -34,8 +34,6 @@ export interface IMultiPurposeToilet {
   infantToiletSheat: number;    // 幼児用便座
   infantToilet: number;         // 幼児用トイレ
   diaperChangingTable: number;  // おむつ交換台
-  diaperBags: Existence;        // おむつ用袋
-  diaperTrashCan: Existence;    // おむつ用ゴミ箱
+  diaperBags: boolean;        // おむつ用袋
+  diaperTrashCan: boolean;    // おむつ用ゴミ箱
 }
-
-type Existence = '有り' | '無し';

@@ -31,7 +31,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -42,8 +42,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -78,7 +78,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -89,8 +89,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -136,8 +136,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -172,7 +172,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -183,8 +183,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -219,7 +219,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -230,8 +230,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -266,7 +266,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -277,8 +277,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -313,7 +313,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -324,8 +324,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -360,7 +360,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -371,8 +371,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -407,7 +407,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -418,8 +418,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -454,7 +454,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 2,
@@ -465,8 +465,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -501,7 +501,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -512,8 +512,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -548,7 +548,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -559,8 +559,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -595,7 +595,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -606,8 +606,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -642,7 +642,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -653,8 +653,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -689,7 +689,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -700,8 +700,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -736,7 +736,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -747,8 +747,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -783,7 +783,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -794,8 +794,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -830,7 +830,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -841,8 +841,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -877,7 +877,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -888,8 +888,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -924,7 +924,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -935,8 +935,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -971,7 +971,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -982,8 +982,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1018,7 +1018,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1029,8 +1029,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1065,7 +1065,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1076,8 +1076,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1112,7 +1112,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1123,8 +1123,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -1159,7 +1159,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -1170,8 +1170,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -1206,7 +1206,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -1217,8 +1217,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -1253,7 +1253,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1264,8 +1264,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1300,7 +1300,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1311,8 +1311,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1347,7 +1347,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -1358,8 +1358,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1394,7 +1394,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1405,8 +1405,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1441,7 +1441,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1452,8 +1452,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1488,7 +1488,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 2,
@@ -1499,8 +1499,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -1535,7 +1535,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1546,8 +1546,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1582,7 +1582,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1593,8 +1593,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1629,7 +1629,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 2,
@@ -1640,8 +1640,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -1676,7 +1676,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -1687,8 +1687,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1723,7 +1723,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1734,8 +1734,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1770,7 +1770,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1781,8 +1781,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1817,7 +1817,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1828,8 +1828,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1864,7 +1864,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1875,8 +1875,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1911,7 +1911,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -1922,8 +1922,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -1958,7 +1958,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -1969,8 +1969,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2005,7 +2005,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2016,8 +2016,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2052,7 +2052,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2063,8 +2063,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2099,7 +2099,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -2110,8 +2110,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2146,7 +2146,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -2157,8 +2157,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2193,7 +2193,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -2204,8 +2204,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2240,7 +2240,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2251,8 +2251,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2287,7 +2287,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -2298,8 +2298,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2334,7 +2334,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2345,8 +2345,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2381,7 +2381,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -2392,8 +2392,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2428,7 +2428,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2439,8 +2439,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "有り",
-			"diaperTrashCan": "無し"
+			"diaperBags": true,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2475,7 +2475,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -2486,8 +2486,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2522,7 +2522,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -2533,8 +2533,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2569,7 +2569,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2580,8 +2580,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2616,7 +2616,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2627,8 +2627,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2663,7 +2663,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -2674,8 +2674,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2710,7 +2710,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2721,8 +2721,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2757,7 +2757,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2768,8 +2768,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2804,7 +2804,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -2815,8 +2815,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2851,7 +2851,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -2862,8 +2862,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2898,7 +2898,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -2909,8 +2909,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2945,7 +2945,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -2956,8 +2956,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -2992,7 +2992,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3003,8 +3003,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3039,7 +3039,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3050,8 +3050,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3086,7 +3086,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -3097,8 +3097,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -3133,7 +3133,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3144,8 +3144,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3180,7 +3180,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3191,8 +3191,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3227,7 +3227,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3238,8 +3238,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3274,7 +3274,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3285,8 +3285,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3321,7 +3321,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3332,8 +3332,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3368,7 +3368,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3379,8 +3379,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3415,7 +3415,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3426,8 +3426,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3462,7 +3462,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3473,8 +3473,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3509,7 +3509,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3520,8 +3520,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3556,7 +3556,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3567,8 +3567,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3603,7 +3603,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3614,8 +3614,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3650,7 +3650,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -3661,8 +3661,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3697,7 +3697,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3708,8 +3708,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3744,7 +3744,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3755,8 +3755,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3791,7 +3791,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3802,8 +3802,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3838,7 +3838,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3849,8 +3849,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3885,7 +3885,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3896,8 +3896,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3932,7 +3932,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -3943,8 +3943,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -3979,7 +3979,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -3990,8 +3990,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4026,7 +4026,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4037,8 +4037,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4073,7 +4073,7 @@
 			"diaperChangingTable": null
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4084,8 +4084,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4120,7 +4120,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4131,8 +4131,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4167,7 +4167,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4178,8 +4178,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4214,7 +4214,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4225,8 +4225,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4261,7 +4261,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4272,8 +4272,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4308,7 +4308,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 2,
@@ -4319,8 +4319,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4355,7 +4355,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -4366,8 +4366,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4402,7 +4402,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -4413,8 +4413,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4449,7 +4449,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4460,8 +4460,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4496,7 +4496,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -4507,8 +4507,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4543,7 +4543,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4554,8 +4554,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4590,7 +4590,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4601,8 +4601,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4637,7 +4637,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 2,
@@ -4648,8 +4648,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4684,7 +4684,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4695,8 +4695,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4731,7 +4731,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4742,8 +4742,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4778,7 +4778,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4789,8 +4789,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -4825,7 +4825,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 3,
 			"wheelChair": 3,
 			"ostomate": 1,
@@ -4836,8 +4836,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4872,7 +4872,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -4883,8 +4883,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4919,7 +4919,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -4930,8 +4930,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -4966,7 +4966,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -4977,8 +4977,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5013,7 +5013,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -5024,8 +5024,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5060,7 +5060,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -5071,8 +5071,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5107,7 +5107,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -5118,8 +5118,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -5154,7 +5154,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5165,8 +5165,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5201,7 +5201,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5212,8 +5212,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5248,7 +5248,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -5259,8 +5259,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5295,7 +5295,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5306,8 +5306,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5342,7 +5342,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -5353,8 +5353,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5389,7 +5389,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5400,8 +5400,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5436,7 +5436,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5447,8 +5447,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5483,7 +5483,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5494,8 +5494,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5530,7 +5530,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5541,8 +5541,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5577,7 +5577,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -5588,8 +5588,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5624,7 +5624,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -5635,8 +5635,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5671,7 +5671,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -5682,8 +5682,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5718,7 +5718,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -5729,8 +5729,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5765,7 +5765,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -5776,8 +5776,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5812,7 +5812,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -5823,8 +5823,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5859,7 +5859,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -5870,8 +5870,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5906,7 +5906,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -5917,8 +5917,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -5953,7 +5953,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -5964,8 +5964,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6000,7 +6000,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6011,8 +6011,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6047,7 +6047,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6058,8 +6058,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6094,7 +6094,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6105,8 +6105,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6141,7 +6141,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6152,8 +6152,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6188,7 +6188,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -6199,8 +6199,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6235,7 +6235,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6246,8 +6246,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6282,7 +6282,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -6293,8 +6293,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6329,7 +6329,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6340,8 +6340,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6376,7 +6376,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -6387,8 +6387,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6423,7 +6423,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6434,8 +6434,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6470,7 +6470,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6481,8 +6481,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6517,7 +6517,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -6528,8 +6528,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6564,7 +6564,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6575,8 +6575,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6611,7 +6611,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6622,8 +6622,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6658,7 +6658,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6669,8 +6669,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6705,7 +6705,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6716,8 +6716,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6752,7 +6752,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6763,8 +6763,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6799,7 +6799,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -6810,8 +6810,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6846,7 +6846,7 @@
 			"diaperChangingTable": null
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6857,8 +6857,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6893,7 +6893,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6904,8 +6904,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6940,7 +6940,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -6951,8 +6951,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -6987,7 +6987,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -6998,8 +6998,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7034,7 +7034,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -7045,8 +7045,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7081,7 +7081,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7092,8 +7092,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7128,7 +7128,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7139,8 +7139,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7175,7 +7175,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7186,8 +7186,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7222,7 +7222,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -7233,8 +7233,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7269,7 +7269,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -7280,8 +7280,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "有り",
-			"diaperTrashCan": "有り"
+			"diaperBags": true,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -7316,7 +7316,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7327,8 +7327,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7363,7 +7363,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7374,8 +7374,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7410,7 +7410,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -7421,8 +7421,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7457,7 +7457,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7468,8 +7468,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7504,7 +7504,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7515,8 +7515,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7551,7 +7551,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -7562,8 +7562,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7598,7 +7598,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -7609,8 +7609,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7645,7 +7645,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7656,8 +7656,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7692,7 +7692,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7703,8 +7703,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7739,7 +7739,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -7750,8 +7750,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7786,7 +7786,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -7797,8 +7797,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7833,7 +7833,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -7844,8 +7844,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7880,7 +7880,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -7891,8 +7891,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7927,7 +7927,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -7938,8 +7938,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -7974,7 +7974,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -7985,8 +7985,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8021,7 +8021,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8032,8 +8032,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8068,7 +8068,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8079,8 +8079,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8115,7 +8115,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8126,8 +8126,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8162,7 +8162,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -8173,8 +8173,8 @@
 			"infantToiletSheat": 2,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8209,7 +8209,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -8220,8 +8220,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8256,7 +8256,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -8267,8 +8267,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8303,7 +8303,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -8314,8 +8314,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "有り",
-			"diaperTrashCan": "有り"
+			"diaperBags": true,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -8350,7 +8350,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -8361,8 +8361,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "有り",
-			"diaperTrashCan": "有り"
+			"diaperBags": true,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -8397,7 +8397,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8408,8 +8408,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8444,7 +8444,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8455,8 +8455,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8491,7 +8491,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8502,8 +8502,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8538,7 +8538,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8549,8 +8549,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8585,7 +8585,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -8596,8 +8596,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8632,7 +8632,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8643,8 +8643,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8679,7 +8679,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8690,8 +8690,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8726,7 +8726,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8737,8 +8737,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8773,7 +8773,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8784,8 +8784,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8820,7 +8820,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8831,8 +8831,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8867,7 +8867,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8878,8 +8878,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8914,7 +8914,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8925,8 +8925,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -8961,7 +8961,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -8972,8 +8972,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9008,7 +9008,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9019,8 +9019,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9055,7 +9055,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9066,8 +9066,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9102,7 +9102,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9113,8 +9113,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9149,7 +9149,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -9160,8 +9160,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9196,7 +9196,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9207,8 +9207,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9243,7 +9243,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9254,8 +9254,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9290,7 +9290,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9301,8 +9301,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9337,7 +9337,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9348,8 +9348,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9384,7 +9384,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9395,8 +9395,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9431,7 +9431,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9442,8 +9442,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9478,7 +9478,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9489,8 +9489,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9525,7 +9525,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9536,8 +9536,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9572,7 +9572,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9583,8 +9583,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9619,7 +9619,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9630,8 +9630,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9666,7 +9666,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9677,8 +9677,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9713,7 +9713,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9724,8 +9724,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9760,7 +9760,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9771,8 +9771,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9807,7 +9807,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -9818,8 +9818,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9854,7 +9854,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -9865,8 +9865,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9901,7 +9901,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -9912,8 +9912,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9948,7 +9948,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -9959,8 +9959,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -9995,7 +9995,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10006,8 +10006,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10042,7 +10042,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10053,8 +10053,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10089,7 +10089,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10100,8 +10100,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10136,7 +10136,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10147,8 +10147,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10183,7 +10183,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10194,8 +10194,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10230,7 +10230,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10241,8 +10241,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10277,7 +10277,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10288,8 +10288,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10324,7 +10324,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10335,8 +10335,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10371,7 +10371,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10382,8 +10382,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10418,7 +10418,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10429,8 +10429,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10465,7 +10465,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10476,8 +10476,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10512,7 +10512,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10523,8 +10523,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10559,7 +10559,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10570,8 +10570,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10606,7 +10606,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10617,8 +10617,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10653,7 +10653,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10664,8 +10664,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10700,7 +10700,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10711,8 +10711,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10747,7 +10747,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10758,8 +10758,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10794,7 +10794,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10805,8 +10805,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10841,7 +10841,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -10852,8 +10852,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10888,7 +10888,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -10899,8 +10899,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -10935,7 +10935,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10946,8 +10946,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -10982,7 +10982,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -10993,8 +10993,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11029,7 +11029,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11040,8 +11040,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11076,7 +11076,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11087,8 +11087,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11123,7 +11123,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11134,8 +11134,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11170,7 +11170,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11181,8 +11181,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11217,7 +11217,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -11228,8 +11228,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11264,7 +11264,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -11275,8 +11275,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11311,7 +11311,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11322,8 +11322,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11358,7 +11358,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11369,8 +11369,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11405,7 +11405,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11416,8 +11416,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11452,7 +11452,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11463,8 +11463,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11499,7 +11499,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11510,8 +11510,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11546,7 +11546,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11557,8 +11557,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11593,7 +11593,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11604,8 +11604,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11640,7 +11640,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11651,8 +11651,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11687,7 +11687,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11698,8 +11698,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11734,7 +11734,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -11745,8 +11745,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11781,7 +11781,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11792,8 +11792,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11828,7 +11828,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11839,8 +11839,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11875,7 +11875,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11886,8 +11886,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11922,7 +11922,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11933,8 +11933,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -11969,7 +11969,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -11980,8 +11980,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12016,7 +12016,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12027,8 +12027,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12063,7 +12063,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12074,8 +12074,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12110,7 +12110,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12121,8 +12121,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -12157,7 +12157,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12168,8 +12168,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12204,7 +12204,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12215,8 +12215,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12251,7 +12251,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12262,8 +12262,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12298,7 +12298,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12309,8 +12309,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12345,7 +12345,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12356,8 +12356,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12392,7 +12392,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12403,8 +12403,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12439,7 +12439,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12450,8 +12450,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12486,7 +12486,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12497,8 +12497,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12533,7 +12533,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12544,8 +12544,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12580,7 +12580,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12591,8 +12591,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12627,7 +12627,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12638,8 +12638,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12674,7 +12674,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -12685,8 +12685,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12721,7 +12721,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12732,8 +12732,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12768,7 +12768,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12779,8 +12779,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12815,7 +12815,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12826,8 +12826,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12862,7 +12862,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12873,8 +12873,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12909,7 +12909,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -12920,8 +12920,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -12956,7 +12956,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -12967,8 +12967,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13003,7 +13003,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13014,8 +13014,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13050,7 +13050,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -13061,8 +13061,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13097,7 +13097,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -13108,8 +13108,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13144,7 +13144,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -13155,8 +13155,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -13191,7 +13191,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -13202,8 +13202,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -13238,7 +13238,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -13249,8 +13249,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13285,7 +13285,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -13296,8 +13296,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13332,7 +13332,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13343,8 +13343,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13379,7 +13379,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13390,8 +13390,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13426,7 +13426,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13437,8 +13437,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13473,7 +13473,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13484,8 +13484,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13520,7 +13520,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -13531,8 +13531,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -13567,7 +13567,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -13578,8 +13578,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -13614,7 +13614,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -13625,8 +13625,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -13661,7 +13661,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13672,8 +13672,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13708,7 +13708,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13719,8 +13719,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13755,7 +13755,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13766,8 +13766,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13802,7 +13802,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13813,8 +13813,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13849,7 +13849,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 0,
 			"ostomate": 1,
@@ -13860,8 +13860,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13896,7 +13896,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13907,8 +13907,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13943,7 +13943,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -13954,8 +13954,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -13990,7 +13990,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14001,8 +14001,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14037,7 +14037,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14048,8 +14048,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14084,7 +14084,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14095,8 +14095,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14131,7 +14131,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14142,8 +14142,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14178,7 +14178,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -14189,8 +14189,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14225,7 +14225,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -14236,8 +14236,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14272,7 +14272,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14283,8 +14283,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14319,7 +14319,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14330,8 +14330,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14366,7 +14366,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -14377,8 +14377,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14413,7 +14413,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14424,8 +14424,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14460,7 +14460,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -14471,8 +14471,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14507,7 +14507,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14518,8 +14518,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14554,7 +14554,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -14565,8 +14565,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14601,7 +14601,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14612,8 +14612,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14648,7 +14648,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -14659,8 +14659,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14695,7 +14695,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14706,8 +14706,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14742,7 +14742,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14753,8 +14753,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14789,7 +14789,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14800,8 +14800,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14836,7 +14836,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14847,8 +14847,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14883,7 +14883,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -14894,8 +14894,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14930,7 +14930,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -14941,8 +14941,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -14977,7 +14977,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -14988,8 +14988,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15024,7 +15024,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15035,8 +15035,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15071,7 +15071,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15082,8 +15082,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "有り",
-			"diaperTrashCan": "有り"
+			"diaperBags": true,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -15118,7 +15118,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15129,8 +15129,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15165,7 +15165,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15176,8 +15176,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15212,7 +15212,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15223,8 +15223,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15259,7 +15259,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15270,8 +15270,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15306,7 +15306,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15317,8 +15317,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15353,7 +15353,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15364,8 +15364,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15400,7 +15400,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15411,8 +15411,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15447,7 +15447,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -15458,8 +15458,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15494,7 +15494,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -15505,8 +15505,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15541,7 +15541,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15552,8 +15552,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15588,7 +15588,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15599,8 +15599,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15635,7 +15635,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15646,8 +15646,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15682,7 +15682,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -15693,8 +15693,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15729,7 +15729,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15740,8 +15740,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15776,7 +15776,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15787,8 +15787,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15823,7 +15823,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15834,8 +15834,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15870,7 +15870,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15881,8 +15881,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15917,7 +15917,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15928,8 +15928,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -15964,7 +15964,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -15975,8 +15975,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16011,7 +16011,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16022,8 +16022,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16058,7 +16058,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -16069,8 +16069,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -16105,7 +16105,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -16116,8 +16116,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16152,7 +16152,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -16163,8 +16163,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16199,7 +16199,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16210,8 +16210,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16246,7 +16246,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16257,8 +16257,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16293,7 +16293,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -16304,8 +16304,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -16340,7 +16340,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16351,8 +16351,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16387,7 +16387,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16398,8 +16398,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16434,7 +16434,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -16445,8 +16445,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 1,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -16481,7 +16481,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16492,8 +16492,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16528,7 +16528,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16539,8 +16539,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16575,7 +16575,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16586,8 +16586,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16622,7 +16622,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16633,8 +16633,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16669,7 +16669,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16680,8 +16680,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16716,7 +16716,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -16727,8 +16727,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16763,7 +16763,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -16774,8 +16774,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16810,7 +16810,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -16821,8 +16821,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16857,7 +16857,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16868,8 +16868,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16904,7 +16904,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16915,8 +16915,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16951,7 +16951,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -16962,8 +16962,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -16998,7 +16998,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -17009,8 +17009,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -17045,7 +17045,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -17056,8 +17056,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17092,7 +17092,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -17103,8 +17103,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -17139,7 +17139,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17150,8 +17150,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17186,7 +17186,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17197,8 +17197,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17233,7 +17233,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -17244,8 +17244,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17280,7 +17280,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17291,8 +17291,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17327,7 +17327,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17338,8 +17338,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17374,7 +17374,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -17385,8 +17385,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17421,7 +17421,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -17432,8 +17432,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17468,7 +17468,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -17479,8 +17479,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17515,7 +17515,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -17526,8 +17526,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17562,7 +17562,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17573,8 +17573,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17609,7 +17609,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17620,8 +17620,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17656,7 +17656,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17667,8 +17667,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17703,7 +17703,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17714,8 +17714,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17750,7 +17750,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17761,8 +17761,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17797,7 +17797,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -17808,8 +17808,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17844,7 +17844,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -17855,8 +17855,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17891,7 +17891,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -17902,8 +17902,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17938,7 +17938,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17949,8 +17949,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -17985,7 +17985,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -17996,8 +17996,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18032,7 +18032,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 1,
@@ -18043,8 +18043,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18079,7 +18079,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18090,8 +18090,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18126,7 +18126,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18137,8 +18137,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18173,7 +18173,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -18184,8 +18184,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18220,7 +18220,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18231,8 +18231,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18267,7 +18267,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -18278,8 +18278,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18314,7 +18314,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18325,8 +18325,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18361,7 +18361,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18372,8 +18372,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18408,7 +18408,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18419,8 +18419,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18455,7 +18455,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -18466,8 +18466,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "有り",
-			"diaperTrashCan": "無し"
+			"diaperBags": true,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18502,7 +18502,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -18513,8 +18513,8 @@
 			"infantToiletSheat": 1,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18549,7 +18549,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -18560,8 +18560,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18596,7 +18596,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -18607,8 +18607,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18643,7 +18643,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -18654,8 +18654,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18690,7 +18690,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -18701,8 +18701,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18737,7 +18737,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "有り",
+			"genderDistinction": true,
 			"num": 2,
 			"wheelChair": 2,
 			"ostomate": 0,
@@ -18748,8 +18748,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 2,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -18784,7 +18784,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -18795,8 +18795,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18831,7 +18831,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -18842,8 +18842,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18878,7 +18878,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -18889,8 +18889,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18925,7 +18925,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 2,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -18936,8 +18936,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -18972,7 +18972,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -18983,8 +18983,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19019,7 +19019,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19030,8 +19030,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19066,7 +19066,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19077,8 +19077,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19113,7 +19113,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19124,8 +19124,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19160,7 +19160,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -19171,8 +19171,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19207,7 +19207,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19218,8 +19218,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19254,7 +19254,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -19265,8 +19265,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -19301,7 +19301,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19312,8 +19312,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19348,7 +19348,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19359,8 +19359,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19395,7 +19395,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19406,8 +19406,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19442,7 +19442,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -19453,8 +19453,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19489,7 +19489,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19500,8 +19500,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19536,7 +19536,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19547,8 +19547,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19583,7 +19583,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 1,
@@ -19594,8 +19594,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -19630,7 +19630,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19641,8 +19641,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19677,7 +19677,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -19688,8 +19688,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 1,
-			"diaperBags": "無し",
-			"diaperTrashCan": "有り"
+			"diaperBags": false,
+			"diaperTrashCan": true
 		}
 	},
 	{
@@ -19724,7 +19724,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19735,8 +19735,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19771,7 +19771,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19782,8 +19782,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19818,7 +19818,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19829,8 +19829,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19865,7 +19865,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19876,8 +19876,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19912,7 +19912,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19923,8 +19923,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -19959,7 +19959,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -19970,8 +19970,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -20006,7 +20006,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -20017,8 +20017,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -20053,7 +20053,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 1,
 			"wheelChair": 1,
 			"ostomate": 0,
@@ -20064,8 +20064,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -20100,7 +20100,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -20111,8 +20111,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	},
 	{
@@ -20147,7 +20147,7 @@
 			"diaperChangingTable": 0
 		},
 		"multiPurpose": {
-			"genderDistinction": "無し",
+			"genderDistinction": false,
 			"num": 0,
 			"wheelChair": 0,
 			"ostomate": 0,
@@ -20158,8 +20158,8 @@
 			"infantToiletSheat": 0,
 			"infantToilet": 0,
 			"diaperChangingTable": 0,
-			"diaperBags": "無し",
-			"diaperTrashCan": "無し"
+			"diaperBags": false,
+			"diaperTrashCan": false
 		}
 	}
 ]

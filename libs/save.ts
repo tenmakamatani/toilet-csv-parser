@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import { IToilet, INotMultiPurposeToilet, IMultiPurposeToilet } from './types/Toilet';
 
 import { getNum } from './common/getNum';
+import { getBoolean } from './common/getBoolean';
 
 const outputPath = 'toilet.json'
 
@@ -88,7 +89,7 @@ const save = (results) => {
           toilet['manAndWoman']['diaperChangingTable'] = getNum(detail);
           break;
         case '多目的トイレ_男女の区別':
-          toilet['multiPurpose']['genderDistinction'] = detail.split(':')[1];
+          toilet['multiPurpose']['genderDistinction'] = getBoolean(detail);
           break;
         case '多目的トイレ_トイレ数':
           toilet['multiPurpose']['num'] = getNum(detail);
@@ -121,10 +122,10 @@ const save = (results) => {
           toilet['multiPurpose']['diaperChangingTable'] = getNum(detail);
           break;
         case '多目的トイレ_おむつ用袋':
-          toilet['multiPurpose']['diaperBags'] = detail.split(':')[1];
+          toilet['multiPurpose']['diaperBags'] = getBoolean(detail);
           break;
         case '多目的トイレ_おむつ用ゴミ箱':
-          toilet['multiPurpose']['diaperTrashCan'] = detail.split(':')[1];
+          toilet['multiPurpose']['diaperTrashCan'] = getBoolean(detail);
           break;
         default:
           break;
