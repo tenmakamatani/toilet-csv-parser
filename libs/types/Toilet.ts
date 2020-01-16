@@ -12,17 +12,17 @@ export interface IToilet {
 }
 
 // 多目的トイレ以外の概略部分
-interface INotMultiPurposeToilet {
-  powderSpace: NothingOrNumber;         // パウダースペース
-  changingSpace: NothingOrNumber;       // 着替え台・スペース
-  babyChair: NothingOrNumber;           // ベビーチェア
-  infantToiletSheat: NothingOrNumber;   // 幼児用便座
-  infantToilet: NothingOrNumber;        // 幼児用トイレ
-  diaperChangingTable: NothingOrNumber; // おむつ交換台
+export interface INotMultiPurposeToilet {
+  powderSpace: number;         // パウダースペース
+  changingSpace: number;       // 着替え台・スペース
+  babyChair: number;           // ベビーチェア
+  infantToiletSheat: number;   // 幼児用便座
+  infantToilet: number;        // 幼児用トイレ
+  diaperChangingTable: number; // おむつ交換台
 }
 
 // 多目的トイレの概略部分
-interface IMultiPurposeToilet {
+export interface IMultiPurposeToilet {
   genderDistinction: Existence; // 男女の区別
   hotWaterWashing: number;      // 温水洗浄機能
   num: number;                  // 数
@@ -39,5 +39,4 @@ interface IMultiPurposeToilet {
   diaperTrashCan: Existence;    // おむつ用ゴミ箱
 }
 
-type NothingOrNumber = '無し' | number;
 type Existence = '有り' | '無し';

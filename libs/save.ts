@@ -1,6 +1,8 @@
 import * as fs from 'fs';
 
-import { IToilet } from './types/Toilet';
+import { IToilet, INotMultiPurposeToilet, IMultiPurposeToilet } from './types/Toilet';
+
+import { getNum } from './common/getNum';
 
 const outputPath = 'toilet.json'
 
@@ -12,7 +14,6 @@ const save = (results) => {
   // Change structure
   const toilets: IToilet[] = [];
   results.forEach((result) => {
-    result['概略'] = result['概略'].split('\n');
     result['開館時間'] = result['開館時間'].split('\n');
 
     const toilet: IToilet = {} as IToilet;
@@ -22,6 +23,21 @@ const save = (results) => {
     toilet['address'] = result['住所'];
     toilet['phoneNumber'] = result['電話番号'];
     toilet['price'] = result['料金'];
+
+    toilet['manOnly'] = {} as INotMultiPurposeToilet;
+    toilet['womanOnly'] = {} as INotMultiPurposeToilet;
+    toilet['manAndWoman'] = {} as INotMultiPurposeToilet;
+    toilet['multiPurpose'] = {} as IMultiPurposeToilet;
+    
+    const details = result['概略'].split('\n');
+    details.forEach(detail => {
+      const title = detail.split(':')[0];
+      switch (title) {
+        case '男性専用トイレ_パウダースペース':
+          toilet['manOnly']['powderSpace'] = getNum(detail);
+          break;
+      }
+    });
 
     toilets.push(toilet);
   });

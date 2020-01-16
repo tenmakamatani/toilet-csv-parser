@@ -5,7 +5,13 @@
 		"longitude": 136.652824,
 		"address": "石川県金沢市高岡町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市文化ホール 1階 会議・展示棟",
@@ -13,7 +19,13 @@
 		"longitude": 136.652824,
 		"address": "石川県金沢市高岡町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市文化ホール 2階 会議・展示棟",
@@ -21,7 +33,13 @@
 		"longitude": 136.652824,
 		"address": "石川県金沢市高岡町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市文化ホール 3階 会議・展示棟",
@@ -29,7 +47,13 @@
 		"longitude": 136.652824,
 		"address": "石川県金沢市高岡町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 1階 ホールロビー　下手",
@@ -37,7 +61,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 1階 ホールロビー　上手",
@@ -45,7 +75,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 3階 ホール3階（2階客席）ロビー",
@@ -53,7 +89,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 2階 別館",
@@ -61,7 +103,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 3階 別館",
@@ -69,7 +117,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 1階 会議棟",
@@ -77,7 +131,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 2階 会議棟",
@@ -85,7 +145,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 3階 会議棟",
@@ -93,7 +159,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢歌劇座 地下1階 地下",
@@ -101,7 +173,13 @@
 		"longitude": 136.658512,
 		"address": "石川県金沢市下本多町６番丁２７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市アートホール 6階 金沢市アートホール",
@@ -109,7 +187,13 @@
 		"longitude": 136.649305,
 		"address": "石川県金沢市本町２丁目１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立音楽堂 1階 インフォメーション横",
@@ -117,7 +201,13 @@
 		"longitude": 136.64772,
 		"address": "石川県金沢市昭和町２０−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立音楽堂 地下1階 交流ホール横",
@@ -125,7 +215,13 @@
 		"longitude": 136.64772,
 		"address": "石川県金沢市昭和町２０−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立美術館 1階 本館1階ロビー付近",
@@ -133,7 +229,13 @@
 		"longitude": 136.66119,
 		"address": "石川県金沢市出羽町２−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立美術館 1階 本館玄関ロビー付近（総合案内所横）",
@@ -141,7 +243,13 @@
 		"longitude": 136.66119,
 		"address": "石川県金沢市出羽町２−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立美術館 2階 本館2階ロビー付近",
@@ -149,7 +257,13 @@
 		"longitude": 136.66119,
 		"address": "石川県金沢市出羽町２−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立歴史博物館 1階 第2棟歴史博物館ロビー奥",
@@ -157,7 +271,13 @@
 		"longitude": 136.662788,
 		"address": "石川県金沢市出羽町３−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立歴史博物館 屋外 第2棟横（屋外）",
@@ -165,7 +285,13 @@
 		"longitude": 136.662788,
 		"address": "石川県金沢市出羽町３−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立能楽堂 1階 事務室横",
@@ -173,7 +299,13 @@
 		"longitude": 136.663371,
 		"address": "石川県金沢市石引４−１８−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立能楽堂 1階 舞台ホール奥",
@@ -181,7 +313,13 @@
 		"longitude": 136.663371,
 		"address": "石川県金沢市石引４−１８−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立伝統産業工芸館 1階 正面入口付近",
@@ -189,7 +327,13 @@
 		"longitude": 136.664053,
 		"address": "石川県金沢市兼六町１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県政記念しいのき迎賓館 屋外 屋外（駐車場出入口）",
@@ -197,7 +341,13 @@
 		"longitude": 136.657874,
 		"address": "石川県金沢市広坂２丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県政記念しいのき迎賓館 1階",
@@ -205,7 +355,13 @@
 		"longitude": 136.657874,
 		"address": "石川県金沢市広坂２丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県政記念しいのき迎賓館 2階",
@@ -213,7 +369,13 @@
 		"longitude": 136.657874,
 		"address": "石川県金沢市広坂２丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県政記念しいのき迎賓館 3階",
@@ -221,7 +383,13 @@
 		"longitude": 136.657874,
 		"address": "石川県金沢市広坂２丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川四高記念文化交流館 1階 エレベータ付近",
@@ -229,7 +397,13 @@
 		"longitude": 136.655735,
 		"address": "石川県金沢市広坂２−２−５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川四高記念文化交流館 2階 エレベータ付近",
@@ -237,7 +411,13 @@
 		"longitude": 136.655735,
 		"address": "石川県金沢市広坂２−２−５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢21世紀美術館 1階 レルの部屋横",
@@ -245,7 +425,13 @@
 		"longitude": 136.658172,
 		"address": "石川県金沢市広坂１-２-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢21世紀美術館 1階 ミュージアムショップ向かい",
@@ -253,7 +439,13 @@
 		"longitude": 136.658172,
 		"address": "石川県金沢市広坂１-２-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢21世紀美術館 1階 展覧会ゾーン展示室2向かい",
@@ -261,7 +453,13 @@
 		"longitude": 136.658172,
 		"address": "石川県金沢市広坂１-２-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢21世紀美術館 1階 展覧会ゾーン展示室11向かい",
@@ -269,7 +467,13 @@
 		"longitude": 136.658172,
 		"address": "石川県金沢市広坂１-２-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢21世紀美術館 地下1階",
@@ -277,7 +481,13 @@
 		"longitude": 136.658172,
 		"address": "石川県金沢市広坂１-２-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢能楽美術館 1階",
@@ -285,7 +495,13 @@
 		"longitude": 136.658068,
 		"address": "石川県金沢市広坂１丁目２-２５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢能楽美術館 3階",
@@ -293,7 +509,13 @@
 		"longitude": 136.658068,
 		"address": "石川県金沢市広坂１丁目２-２５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立中村記念美術館 1階 中村記念美術館",
@@ -301,7 +523,13 @@
 		"longitude": 136.660546,
 		"address": "石川県金沢市本多町３丁目２-２９",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立中村記念美術館 1階 旧中村邸",
@@ -309,7 +537,13 @@
 		"longitude": 136.660546,
 		"address": "石川県金沢市本多町３丁目２-２９",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立中村記念美術館 1階 耕雲庵",
@@ -317,7 +551,13 @@
 		"longitude": 136.660546,
 		"address": "石川県金沢市本多町３丁目２-２９",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢ふるさと偉人館 1階 玄関ホール横",
@@ -325,7 +565,13 @@
 		"longitude": 136.657851,
 		"address": "石川県金沢市下本多町６番丁１８-４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢ふるさと偉人館 3階 ホール横",
@@ -333,7 +579,13 @@
 		"longitude": 136.657851,
 		"address": "石川県金沢市下本多町６番丁１８-４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "室生犀星記念館 1階 エレベーター前",
@@ -341,7 +593,13 @@
 		"longitude": 136.648215,
 		"address": "石川県金沢市千日町３-２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉鏡花記念館 1階",
@@ -349,7 +607,13 @@
 		"longitude": 136.663073,
 		"address": "石川県金沢市下新町２-３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "徳田秋聲記念館 1階 休憩ホール横",
@@ -357,7 +621,13 @@
 		"longitude": 136.667162,
 		"address": "石川県金沢市東山１丁目１９-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "鈴木大拙館 1階 鈴木大拙館入口横",
@@ -365,7 +635,13 @@
 		"longitude": 136.661203,
 		"address": "石川県金沢市本多町３丁目４-２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢くらしの博物館 1階 正面奥",
@@ -373,7 +649,13 @@
 		"longitude": 136.668057,
 		"address": "石川県金沢市飛梅町３-３　（紫錦台中学校敷地内）",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢文芸館 1階 交流サロン横",
@@ -381,7 +663,13 @@
 		"longitude": 136.663693,
 		"address": "石川県金沢市尾張町１丁目７-１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌夢二館 1階 階段手前通路奥",
@@ -389,7 +677,13 @@
 		"longitude": 136.757448,
 		"address": "石川県金沢市湯涌町イ１４４-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "前田土佐守家資料館 1階 受付横",
@@ -397,7 +691,13 @@
 		"longitude": 136.650883,
 		"address": "石川県金沢市片町２丁目１０-１７",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老舗記念館 1階 おえの間奥",
@@ -405,7 +705,13 @@
 		"longitude": 136.65036,
 		"address": "石川県金沢市長町２丁目２-４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立安江金箔工芸館 1階",
@@ -413,7 +719,13 @@
 		"longitude": 136.665954,
 		"address": "石川県金沢市東山１丁目３-１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立安江金箔工芸館 3階",
@@ -421,7 +733,13 @@
 		"longitude": 136.665954,
 		"address": "石川県金沢市東山１丁目３-１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 屋外 守衛棟(外）",
@@ -429,7 +747,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 1階 研修棟",
@@ -437,7 +761,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 1階 受付（宿泊）棟",
@@ -445,7 +775,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 2階 受付（宿泊）棟",
@@ -453,7 +789,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 1階 版画工房",
@@ -461,7 +803,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 1階 スクリーン工房",
@@ -469,7 +817,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌創作の森 1階 染織工房",
@@ -477,7 +831,13 @@
 		"longitude": 136.749637,
 		"address": "石川県金沢市北袋町ヱ３６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌江戸村 1階 町家ゾーン旧山川家",
@@ -485,7 +845,13 @@
 		"longitude": 136.756565,
 		"address": "石川県金沢市湯涌荒屋町３５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌江戸村 1階 町家ゾーン旧石倉家",
@@ -493,7 +859,13 @@
 		"longitude": 136.756565,
 		"address": "石川県金沢市湯涌荒屋町３５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌江戸村 屋外 町家ゾーントイレ棟",
@@ -501,7 +873,13 @@
 		"longitude": 136.756565,
 		"address": "石川県金沢市湯涌荒屋町３５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌江戸村 1階 農家ゾーン旧野本家",
@@ -509,7 +887,13 @@
 		"longitude": 136.756565,
 		"address": "石川県金沢市湯涌荒屋町３５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "寺島蔵人邸 1階 展示室横",
@@ -517,7 +901,13 @@
 		"longitude": 136.663581,
 		"address": "石川県金沢市大手町１０-３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢蓄音器館 1階",
@@ -525,7 +915,13 @@
 		"longitude": 136.662725,
 		"address": "石川県金沢市尾張町２丁目１１-２１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢卯辰山工芸工房 1階 本館1階　事務室横",
@@ -533,7 +929,13 @@
 		"longitude": 136.67491,
 		"address": "石川県金沢市卯辰町ト１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢卯辰山工芸工房 2階 本館2階　展示室横",
@@ -541,7 +943,13 @@
 		"longitude": 136.67491,
 		"address": "石川県金沢市卯辰町ト１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢卯辰山工芸工房 1階 工房棟　1階",
@@ -549,7 +957,13 @@
 		"longitude": 136.67491,
 		"address": "石川県金沢市卯辰町ト１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢卯辰山工芸工房 2階 工房棟　2階",
@@ -557,7 +971,13 @@
 		"longitude": 136.67491,
 		"address": "石川県金沢市卯辰町ト１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢卯辰山工芸工房 1階 市民工房棟",
@@ -565,7 +985,13 @@
 		"longitude": 136.67491,
 		"address": "石川県金沢市卯辰町ト１０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市牧山ガラス工房 1階 研磨室横",
@@ -573,7 +999,13 @@
 		"longitude": 136.753497,
 		"address": "石川県金沢市牧山町ニ５７",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市おしがはら工房 1階",
@@ -581,7 +1013,13 @@
 		"longitude": 136.715955,
 		"address": "石川県金沢市下鴛原町１−３６−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市おしがはら工房 2階",
@@ -589,7 +1027,13 @@
 		"longitude": 136.715955,
 		"address": "石川県金沢市下鴛原町１−３６−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市おしがはら工房 3階",
@@ -597,7 +1041,13 @@
 		"longitude": 136.715955,
 		"address": "石川県金沢市下鴛原町１−３６−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 事務所棟",
@@ -605,7 +1055,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 ドラマ工房楽屋",
@@ -613,7 +1069,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 オープンスペース下",
@@ -621,7 +1083,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 アート工房",
@@ -629,7 +1097,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 里山の家",
@@ -637,7 +1111,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 パフォーミングスクエア大練習室側",
@@ -645,7 +1125,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 パフォーミングスクエア小練習室側",
@@ -653,7 +1139,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 憩いの広場Ｂ",
@@ -661,7 +1153,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民芸術村 1階 防災備蓄倉庫",
@@ -669,7 +1167,13 @@
 		"longitude": 136.640414,
 		"address": "石川県金沢市大和町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "尾張町老舗交流館 1階",
@@ -677,7 +1181,13 @@
 		"longitude": 136.659386,
 		"address": "石川県金沢市尾張町１丁目１１−１１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市西茶屋資料館 1階",
@@ -685,7 +1195,13 @@
 		"longitude": 136.647335,
 		"address": "石川県金沢市野町２丁目２５-１８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "長町武家屋敷休憩館 1階",
@@ -693,7 +1209,13 @@
 		"longitude": 136.64958,
 		"address": "石川県金沢市長町２丁目４-３６",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市足軽資料館 1階",
@@ -701,7 +1223,13 @@
 		"longitude": 136.649862,
 		"address": "石川県金沢市長町１丁目９−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "ひがし茶屋休憩館 1階",
@@ -709,7 +1237,13 @@
 		"longitude": 136.665844,
 		"address": "石川県金沢市東山１丁目５-１４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金澤町家情報館 1階 奥",
@@ -717,7 +1251,13 @@
 		"longitude": 136.656555,
 		"address": "石川県金沢市茨木町５３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "兼六園 屋外 桜ヶ岡",
@@ -725,7 +1265,13 @@
 		"longitude": 136.66278,
 		"address": "石川県金沢市兼六町１番４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "兼六園 屋外 時雨亭",
@@ -733,7 +1279,13 @@
 		"longitude": 136.66278,
 		"address": "石川県金沢市兼六町１番４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "兼六園 屋外 上坂",
@@ -741,7 +1293,13 @@
 		"longitude": 136.66278,
 		"address": "石川県金沢市兼六町１番４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "兼六園 屋外 小立野",
@@ -749,7 +1307,13 @@
 		"longitude": 136.66278,
 		"address": "石川県金沢市兼六町１番４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "兼六園 屋外 案内所裏",
@@ -757,7 +1321,13 @@
 		"longitude": 136.66278,
 		"address": "石川県金沢市兼六町１番４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 玉泉院丸庭園",
@@ -765,7 +1335,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 鶴の丸広場",
@@ -773,7 +1349,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 金沢城・兼六園管理事務所",
@@ -781,7 +1363,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 河北門入口付近",
@@ -789,7 +1377,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 三の丸北園地（総合案内所横）",
@@ -797,7 +1391,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 新丸広場（大手門口付近）",
@@ -805,7 +1405,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 黒門口付近",
@@ -813,7 +1419,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢城公園 屋外 鶴の丸休憩館",
@@ -821,7 +1433,13 @@
 		"longitude": 136.6599,
 		"address": "石川県金沢市丸の内１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "いしかわ四高記念公園 屋外 カスケード（池）付近",
@@ -829,7 +1447,13 @@
 		"longitude": 136.654936,
 		"address": "石川県金沢市広坂２丁目",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "いしかわ四高記念公園 屋外 香林坊交番付近",
@@ -837,7 +1461,13 @@
 		"longitude": 136.654936,
 		"address": "石川県金沢市広坂２丁目",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "犀川緑地（室生犀星文学碑横） 屋外",
@@ -845,7 +1475,13 @@
 		"longitude": 136.654816,
 		"address": "石川県金沢市中川除町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "犀川緑地（犀川神社前） 屋外",
@@ -853,7 +1489,13 @@
 		"longitude": 136.646224,
 		"address": "石川県金沢市中央通町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "犀川緑地（犀川神社対岸） 屋外",
@@ -861,7 +1503,13 @@
 		"longitude": 136.645193,
 		"address": "石川県金沢市中村町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "本多の森公園 屋外 石川護國神社入口付近",
@@ -869,7 +1517,13 @@
 		"longitude": 136.664316,
 		"address": "石川県金沢市出羽町、石引、本多町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "主計町緑水苑 屋外 主計町緑水苑内",
@@ -877,7 +1531,13 @@
 		"longitude": 136.662757,
 		"address": "石川県金沢市主計町３１８−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "卯辰山公園（川岸園） 屋外 卯辰山公園内（川岸園）",
@@ -885,7 +1545,13 @@
 		"longitude": 136.669193,
 		"address": "石川県金沢市豊国町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "長町街園（トイレ単独建物） 1階 トイレ単独建物",
@@ -893,7 +1559,13 @@
 		"longitude": 136.651442,
 		"address": "石川県金沢市長町１丁目７４番１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "長町緑地 屋外 長町緑地内",
@@ -901,7 +1573,13 @@
 		"longitude": 136.649816,
 		"address": "石川県金沢市長町２丁目２-４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "東山１丁目小公園 屋外 公園内",
@@ -909,7 +1587,13 @@
 		"longitude": 136.667431,
 		"address": "石川県金沢市東山１丁目３９７番",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "東山河岸緑地 屋外 東山河岸緑地内",
@@ -917,7 +1601,13 @@
 		"longitude": 136.665426,
 		"address": "石川県金沢市東山１丁目１-２９",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "外濠公園（白鳥路） 屋外 外濠公園内（白鳥路）",
@@ -925,7 +1615,13 @@
 		"longitude": 136.661329,
 		"address": "石川県金沢市丸の内６８番",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "外濠公園（フラワーガーデン） 屋外 外濠公園内（フラワーガーデン）",
@@ -933,7 +1629,13 @@
 		"longitude": 136.662541,
 		"address": "石川県金沢市丸の内８４番１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "玉川公園 屋外 玉川公園内",
@@ -941,7 +1643,13 @@
 		"longitude": 136.650333,
 		"address": "石川県金沢市玉川町２番",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "彦三緑地 屋外 彦三緑地内",
@@ -949,7 +1657,13 @@
 		"longitude": 136.661261,
 		"address": "石川県金沢市彦三町１丁目２９４−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "寺町鐘声園 屋外 寺町鐘声園内",
@@ -957,7 +1671,13 @@
 		"longitude": 136.652704,
 		"address": "石川県金沢市寺町５丁目３９７",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "米丸交流広場トイレ 屋外",
@@ -965,7 +1685,13 @@
 		"longitude": 136.618306,
 		"address": "石川県金沢市東力町ハ２８４番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "粟崎やすらぎの林 屋外 駐車場",
@@ -973,7 +1699,13 @@
 		"longitude": 136.619839,
 		"address": "石川県金沢市粟崎町４丁目８１番１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 屋外 菅池そば",
@@ -981,7 +1713,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 屋外 林間サイト内",
@@ -989,7 +1727,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 屋外 ぬくもりの木道そば",
@@ -997,7 +1741,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 屋外 オートキャンプサイト内",
@@ -1005,7 +1755,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 屋外 展望台そば",
@@ -1013,7 +1769,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 屋外 給水施設そば",
@@ -1021,7 +1783,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "医王の里 1階 総合案内所",
@@ -1029,7 +1797,13 @@
 		"longitude": 136.769534,
 		"address": "石川県金沢市大菱池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金石・大野やすらぎの林 屋外 駐車場",
@@ -1037,7 +1811,13 @@
 		"longitude": 136.596662,
 		"address": "石川県金沢市金石北４丁目７２番１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "専光寺ふれあいの森 屋外 駐車場",
@@ -1045,7 +1825,13 @@
 		"longitude": 136.576935,
 		"address": "石川県金沢市専光寺町レ３番１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "平栗いこいの森 屋外 駐車場",
@@ -1053,7 +1839,13 @@
 		"longitude": 136.66052,
 		"address": "石川県金沢市平栗町地内",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "奥卯辰山墓地公園 屋外 7区横",
@@ -1061,7 +1853,13 @@
 		"longitude": 136.694144,
 		"address": "石川県金沢市若松町ア８８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "奥卯辰山墓地公園 屋外 5区横",
@@ -1069,7 +1867,13 @@
 		"longitude": 136.694144,
 		"address": "石川県金沢市若松町ア８８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "奥卯辰山墓地公園 1階 管理事務所棟内",
@@ -1077,7 +1881,13 @@
 		"longitude": 136.694144,
 		"address": "石川県金沢市若松町ア８８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "内川墓地公園 1階 管理事務所棟",
@@ -1085,7 +1895,13 @@
 		"longitude": 136.67186,
 		"address": "石川県金沢市小原町ム１８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "内川墓地公園 屋外 芝生B区横",
@@ -1093,7 +1909,13 @@
 		"longitude": 136.67186,
 		"address": "石川県金沢市小原町ム１８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "内川墓地公園 屋外 自由3区横",
@@ -1101,7 +1923,13 @@
 		"longitude": 136.67186,
 		"address": "石川県金沢市小原町ム１８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野田山墓地 屋外 管理事務所",
@@ -1109,7 +1937,13 @@
 		"longitude": 136.663232,
 		"address": "石川県金沢市野田町野田山１−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野田山墓地 屋外 平成墓地甲",
@@ -1117,7 +1951,13 @@
 		"longitude": 136.663232,
 		"address": "石川県金沢市野田町野田山１−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野田山墓地 屋外 平成墓地乙",
@@ -1125,7 +1965,13 @@
 		"longitude": 136.663232,
 		"address": "石川県金沢市野田町野田山１−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野田山墓地 屋外 平成墓地丙",
@@ -1133,7 +1979,13 @@
 		"longitude": 136.663232,
 		"address": "石川県金沢市野田町野田山１−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野田山墓地 屋外 和光の郷",
@@ -1141,7 +1993,13 @@
 		"longitude": 136.663232,
 		"address": "石川県金沢市野田町野田山１−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "尾山神社 屋外 境内左側",
@@ -1149,7 +2007,13 @@
 		"longitude": 136.655425,
 		"address": "石川県金沢市尾山町１１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "にし茶屋観光駐車場 1階",
@@ -1157,7 +2021,13 @@
 		"longitude": 136.647857,
 		"address": "石川県金沢市野町２丁目２５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "東山バス観光駐車場 1階",
@@ -1165,7 +2035,13 @@
 		"longitude": 136.664799,
 		"address": "石川県金沢市東山３丁目３-３８",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌夢二館駐車場公衆トイレ（トイレ単独建物） 1階 トイレ単独建物",
@@ -1173,7 +2049,13 @@
 		"longitude": 136.756071,
 		"address": "石川県金沢市湯涌町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢駅東駐車場 1階 エレベーターホール（管理事務所横）",
@@ -1181,7 +2063,13 @@
 		"longitude": 136.648087,
 		"address": "石川県金沢市昭和町１６番２号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "武蔵地下駐車場 地下1階 エレベーターホール（東1出入口）",
@@ -1189,7 +2077,13 @@
 		"longitude": 136.651546,
 		"address": "石川県金沢市本町１丁目１７０番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "武蔵地下駐車場 地下1階 事前精算機横（武蔵横断地下道手前）",
@@ -1197,7 +2091,13 @@
 		"longitude": 136.651546,
 		"address": "石川県金沢市本町１丁目１７０番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営金沢駅第１自転車駐車場 1階",
@@ -1205,7 +2105,13 @@
 		"longitude": 136.648693,
 		"address": "石川県金沢市木ノ新保町４３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営金沢駅第２自転車駐車場 1階",
@@ -1213,7 +2119,13 @@
 		"longitude": 136.647004,
 		"address": "石川県金沢市北安江町ト１３０番地２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営金沢駅第３自転車駐車場 1階",
@@ -1221,7 +2133,13 @@
 		"longitude": 136.647438,
 		"address": "石川県金沢市昭和町６３１番地２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "十間町広場 1階",
@@ -1229,7 +2147,13 @@
 		"longitude": 136.656812,
 		"address": "石川県金沢市十間町３５番地外",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市総合体育館 1階 第１競技場前",
@@ -1237,7 +2161,13 @@
 		"longitude": 136.650196,
 		"address": "石川県金沢市泉野出町３丁目８-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市総合体育館 1階 第3競技場前",
@@ -1245,7 +2175,13 @@
 		"longitude": 136.650196,
 		"address": "石川県金沢市泉野出町３丁目８-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市総合体育館 2階 多目的室前",
@@ -1253,7 +2189,13 @@
 		"longitude": 136.650196,
 		"address": "石川県金沢市泉野出町３丁目８-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市総合体育館 2階 エレベータ横多目的トイレ",
@@ -1261,7 +2203,13 @@
 		"longitude": 136.650196,
 		"address": "石川県金沢市泉野出町３丁目８-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市総合体育館 2階 第1競技場観覧席Ｃ面側",
@@ -1269,7 +2217,13 @@
 		"longitude": 136.650196,
 		"address": "石川県金沢市泉野出町３丁目８-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市総合体育館 2階 第1競技場観覧席Ａ面側",
@@ -1277,7 +2231,13 @@
 		"longitude": 136.650196,
 		"address": "石川県金沢市泉野出町３丁目８-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営中央市民体育館 1階 ロビー",
@@ -1285,7 +2245,13 @@
 		"longitude": 136.645587,
 		"address": "石川県金沢市長町３丁目３-３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営城南市民体育館 1階 アリーナ横",
@@ -1293,7 +2259,13 @@
 		"longitude": 136.656802,
 		"address": "石川県金沢市若草町１-６０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営城東市民体育館 1階 アリーナ横",
@@ -1301,7 +2273,13 @@
 		"longitude": 136.691298,
 		"address": "石川県金沢市土清水２丁目３４６",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営城北市民体育館 1階 アリーナ横",
@@ -1309,7 +2287,13 @@
 		"longitude": 136.669919,
 		"address": "石川県金沢市鳴和２丁目１０-４４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営城西市民体育館 1階 アリーナ横",
@@ -1317,7 +2301,13 @@
 		"longitude": 136.603014,
 		"address": "石川県金沢市木曳野１丁目３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営森本市民体育館 1階 アリーナ横",
@@ -1325,7 +2315,13 @@
 		"longitude": 136.692511,
 		"address": "石川県金沢市弥勒町ヨ５０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営浅野川市民体育館 1階 アリーナ横",
@@ -1333,7 +2329,13 @@
 		"longitude": 136.639946,
 		"address": "石川県金沢市大河端町西１丁目９６番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市額谷ふれあい体育館 1階 ロビー",
@@ -1341,7 +2343,13 @@
 		"longitude": 136.629928,
 		"address": "石川県金沢市額谷町ヌ１６",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民体育会館 1階 多目的トイレ",
@@ -1349,7 +2357,13 @@
 		"longitude": 136.619861,
 		"address": "石川県金沢市東力町ハ２５０　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民体育会館 2階 女子トイレ",
@@ -1357,7 +2371,13 @@
 		"longitude": 136.619861,
 		"address": "石川県金沢市東力町ハ２５０　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民体育会館 2階 男子トイレ",
@@ -1365,7 +2385,13 @@
 		"longitude": 136.619861,
 		"address": "石川県金沢市東力町ハ２５０　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民体育会館 1階 プール女子トイレ",
@@ -1373,7 +2399,13 @@
 		"longitude": 136.619861,
 		"address": "石川県金沢市東力町ハ２５０　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民体育会館 1階 プール男子トイレ",
@@ -1381,7 +2413,13 @@
 		"longitude": 136.619861,
 		"address": "石川県金沢市東力町ハ２５０　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市鳴和台市民体育会館 地下1階 温水プール",
@@ -1389,7 +2427,13 @@
 		"longitude": 136.67918,
 		"address": "石川県金沢市鳴和台２８５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市鳴和台市民体育会館 1階 事務室・利用者用会議室1〜3・プールギャラリー",
@@ -1397,7 +2441,13 @@
 		"longitude": 136.67918,
 		"address": "石川県金沢市鳴和台２８５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市鳴和台市民体育会館 2階 体育館",
@@ -1405,7 +2455,13 @@
 		"longitude": 136.67918,
 		"address": "石川県金沢市鳴和台２８５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営城北市民テニスコート 1階 クラブハウス内",
@@ -1413,7 +2469,13 @@
 		"longitude": 136.656583,
 		"address": "石川県金沢市松寺町酉９０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営城北市民テニスコート 屋外 屋外",
@@ -1421,7 +2483,13 @@
 		"longitude": 136.656583,
 		"address": "石川県金沢市松寺町酉９０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営東金沢スポーツ広場 1階 クラブハウス内",
@@ -1429,7 +2497,13 @@
 		"longitude": 136.67117,
 		"address": "石川県金沢市三池町２４０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営東金沢スポーツ広場 屋外 テニスコート屋外",
@@ -1437,7 +2511,13 @@
 		"longitude": 136.67117,
 		"address": "石川県金沢市三池町２４０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西金沢テニスコート 1階 クラブハウス内",
@@ -1445,7 +2525,13 @@
 		"longitude": 136.61179,
 		"address": "石川県金沢市西金沢３丁目６８４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営大徳テニスコート 1階 クラブハウス内",
@@ -1453,7 +2539,13 @@
 		"longitude": 136.607647,
 		"address": "石川県金沢市観音堂町ト-１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 屋外 屋外（3塁側）",
@@ -1461,7 +2553,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 屋外 屋外（1塁側）",
@@ -1469,7 +2567,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 1階 室内（3塁側ダグアウト側）",
@@ -1477,7 +2581,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 1階 室内（1塁側ダグアウト側）",
@@ -1485,7 +2595,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 1階 室内（本部室前）",
@@ -1493,7 +2609,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 2階 スタンド（3塁側奥側）",
@@ -1501,7 +2623,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 2階 スタンド（3塁側手前）",
@@ -1509,7 +2637,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 2階 スタンド（1塁側奥側）",
@@ -1517,7 +2651,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 2階 スタンド（1塁側手前）",
@@ -1525,7 +2665,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民野球場 2階 スコアボード",
@@ -1533,7 +2679,13 @@
 		"longitude": 136.656321,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 屋外 北口",
@@ -1541,7 +2693,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 屋外 中央口",
@@ -1549,7 +2707,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 屋外 多目的トイレ",
@@ -1557,7 +2721,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 1階 室内（西側）",
@@ -1565,7 +2735,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 1階 室内（北側）",
@@ -1573,7 +2749,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 1階 室内（中央）",
@@ -1581,7 +2763,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市民サッカー場 2階 室内",
@@ -1589,7 +2777,13 @@
 		"longitude": 136.657778,
 		"address": "石川県金沢市磯部町ニ４５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営専光寺ソフトボール場 1階 事務所横",
@@ -1597,7 +2791,13 @@
 		"longitude": 136.577692,
 		"address": "石川県金沢市専光寺町レ３-５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営専光寺ソフトボール場 屋外 第1球場横",
@@ -1605,7 +2805,13 @@
 		"longitude": 136.577692,
 		"address": "石川県金沢市専光寺町レ３-５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営専光寺ソフトボール場 屋外 第3、4球場間",
@@ -1613,7 +2819,13 @@
 		"longitude": 136.577692,
 		"address": "石川県金沢市専光寺町レ３-５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営専光寺ソフトボール場 屋外 第4球場横",
@@ -1621,7 +2833,13 @@
 		"longitude": 136.577692,
 		"address": "石川県金沢市専光寺町レ３-５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営陸上競技場 1階 ミーティングルーム",
@@ -1629,7 +2847,13 @@
 		"longitude": 136.643251,
 		"address": "石川県金沢市弥生３丁目５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営陸上競技場 1階 器具庫前役員トイレ",
@@ -1637,7 +2861,13 @@
 		"longitude": 136.643251,
 		"address": "石川県金沢市弥生３丁目５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営陸上競技場 2階 スタンド裏",
@@ -1645,7 +2875,13 @@
 		"longitude": 136.643251,
 		"address": "石川県金沢市弥生３丁目５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営陸上競技場 屋外 北側円形トイレ",
@@ -1653,7 +2889,13 @@
 		"longitude": 136.643251,
 		"address": "石川県金沢市弥生３丁目５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営陸上競技場 屋外 南側円形トイレ",
@@ -1661,7 +2903,13 @@
 		"longitude": 136.643251,
 		"address": "石川県金沢市弥生３丁目５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営陸上競技場 屋外 屋外トイレ",
@@ -1669,7 +2917,13 @@
 		"longitude": 136.643251,
 		"address": "石川県金沢市弥生３丁目５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市内川スポーツ広場 1階 管理事務所内",
@@ -1677,7 +2931,13 @@
 		"longitude": 136.686388,
 		"address": "石川県金沢市山川町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市内川スポーツ広場 1階 遊具棟",
@@ -1685,7 +2945,13 @@
 		"longitude": 136.686388,
 		"address": "石川県金沢市山川町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市内川スポーツ広場 1階 レストハウス",
@@ -1693,7 +2959,13 @@
 		"longitude": 136.686388,
 		"address": "石川県金沢市山川町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市内川スポーツ広場 屋外 野球場横",
@@ -1701,7 +2973,13 @@
 		"longitude": 136.686388,
 		"address": "石川県金沢市山川町１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市戸室スポーツ広場 1階 レストハウス",
@@ -1709,7 +2987,13 @@
 		"longitude": 136.732532,
 		"address": "石川県金沢市戸室新保ト３５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市戸室スポーツ広場 1階 管理棟",
@@ -1717,7 +3001,13 @@
 		"longitude": 136.732532,
 		"address": "石川県金沢市戸室新保ト３５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市戸室スポーツ広場 屋外 野球場横",
@@ -1725,7 +3015,13 @@
 		"longitude": 136.732532,
 		"address": "石川県金沢市戸室新保ト３５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営安原スポーツ広場 1階 クラブハウス内",
@@ -1733,7 +3029,13 @@
 		"longitude": 136.574656,
 		"address": "石川県金沢市下安原町東１１２７　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営安原スポーツ広場 屋外 屋外トイレ",
@@ -1741,7 +3043,13 @@
 		"longitude": 136.574656,
 		"address": "石川県金沢市下安原町東１１２７　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民憩いの家 1階 ロビー横",
@@ -1749,7 +3057,13 @@
 		"longitude": 136.61928,
 		"address": "石川県金沢市東力町ハ２５６　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市営西部市民憩いの家 2階",
@@ -1757,7 +3071,13 @@
 		"longitude": 136.61928,
 		"address": "石川県金沢市東力町ハ２５６　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:ほぼすべて有料エリア\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 地下1階 窓口センター",
@@ -1765,7 +3085,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 1階 窓口センター",
@@ -1773,7 +3099,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 2階 窓口センター",
@@ -1781,7 +3113,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 3階 窓口センター",
@@ -1789,7 +3127,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 4階 窓口センター",
@@ -1797,7 +3141,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 2階 本館",
@@ -1805,7 +3155,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 3階 本館",
@@ -1813,7 +3169,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 4階 本館",
@@ -1821,7 +3183,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 5階 本館",
@@ -1829,7 +3197,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 6階 本館",
@@ -1837,7 +3211,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 7階 本館",
@@ -1845,7 +3225,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 1階 新館",
@@ -1853,7 +3239,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 2階 新館",
@@ -1861,7 +3253,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 3階 新館",
@@ -1869,7 +3267,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 4階 新館",
@@ -1877,7 +3281,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 5階 新館",
@@ -1885,7 +3295,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 6階 新館",
@@ -1893,7 +3309,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 7階 新館",
@@ -1901,7 +3323,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市役所　本庁舎 1階 窓口センター（医療保険課横）",
@@ -1909,7 +3337,13 @@
 		"longitude": 136.656543,
 		"address": "石川県金沢市広坂１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局　広岡庁舎 1階",
@@ -1917,7 +3351,13 @@
 		"longitude": 136.644364,
 		"address": "石川県金沢市広岡３丁目３番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局　広岡庁舎 2階",
@@ -1925,7 +3365,13 @@
 		"longitude": 136.644364,
 		"address": "石川県金沢市広岡３丁目３番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局　広岡庁舎 3階",
@@ -1933,7 +3379,13 @@
 		"longitude": 136.644364,
 		"address": "石川県金沢市広岡３丁目３番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局　広岡庁舎 4階",
@@ -1941,7 +3393,13 @@
 		"longitude": 136.644364,
 		"address": "石川県金沢市広岡３丁目３番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局　広岡庁舎 5階",
@@ -1949,7 +3407,13 @@
 		"longitude": 136.644364,
 		"address": "石川県金沢市広岡３丁目３番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "森本市民センター 1階 窓口横",
@@ -1957,7 +3421,13 @@
 		"longitude": 136.694145,
 		"address": "石川県金沢市南森本町ヌ３３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "森本市民センター 2階 会議室横",
@@ -1965,7 +3435,13 @@
 		"longitude": 136.694145,
 		"address": "石川県金沢市南森本町ヌ３３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金石市民センター（金石会館） 1階",
@@ -1973,7 +3449,13 @@
 		"longitude": 136.594313,
 		"address": "石川県金沢市金石西４丁目５番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金石市民センター（金石会館） 2階",
@@ -1981,7 +3463,13 @@
 		"longitude": 136.594313,
 		"address": "石川県金沢市金石西４丁目５番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金石市民センター（金石会館） 3階",
@@ -1989,7 +3477,13 @@
 		"longitude": 136.594313,
 		"address": "石川県金沢市金石西４丁目５番３０号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "犀川市民センター（犀川地域総合センター） 1階",
@@ -1997,7 +3491,13 @@
 		"longitude": 136.688138,
 		"address": "石川県金沢市末町６の６７番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "安原市民センター（安原会館） 1階 講堂手前",
@@ -2005,7 +3505,13 @@
 		"longitude": 136.580316,
 		"address": "石川県金沢市福増町北１０６７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "安原市民センター（安原会館） 2階 和室隣",
@@ -2013,7 +3519,13 @@
 		"longitude": 136.580316,
 		"address": "石川県金沢市福増町北１０６７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "安原市民センター（安原会館） 1階 児童館内",
@@ -2021,7 +3533,13 @@
 		"longitude": 136.580316,
 		"address": "石川県金沢市福増町北１０６７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "額市民センター（額公民館と併設） 1階 市民センター横廊下を進み左奥",
@@ -2029,7 +3547,13 @@
 		"longitude": 136.624194,
 		"address": "石川県金沢市額谷３丁目１番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "押野市民センター 1階",
@@ -2037,7 +3561,13 @@
 		"longitude": 136.608595,
 		"address": "石川県金沢市八日市２丁目４６４番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "浅川市民センター 1階",
@@ -2045,7 +3575,13 @@
 		"longitude": 136.692148,
 		"address": "石川県金沢市田上の里２丁目３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "浅川市民センター 2階",
@@ -2053,7 +3589,13 @@
 		"longitude": 136.692148,
 		"address": "石川県金沢市田上の里２丁目３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "新神田市民センター 1階",
@@ -2061,7 +3603,13 @@
 		"longitude": 136.629654,
 		"address": "石川県金沢市新神田４−３−１０（金沢市新神田合同庁舎内）",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "湊市民センター 1階",
@@ -2069,7 +3617,13 @@
 		"longitude": 136.630077,
 		"address": "石川県金沢市湊３丁目５番地９",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "本町市民センター 2階 本町市民センター横",
@@ -2077,7 +3631,13 @@
 		"longitude": 136.651731,
 		"address": "石川県金沢市本町１−５−３　リファーレ２階",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県本多の森庁舎 2階 生涯学習センターまなびストルーム内（中2階）",
@@ -2085,7 +3645,13 @@
 		"longitude": 136.66483,
 		"address": "石川県金沢市石引４−１７−１　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県本多の森庁舎 1階 売店横",
@@ -2093,7 +3659,13 @@
 		"longitude": 136.66483,
 		"address": "石川県金沢市石引４−１７−１　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県本多の森庁舎 2階 階段横",
@@ -2101,7 +3673,13 @@
 		"longitude": 136.66483,
 		"address": "石川県金沢市石引４−１７−１　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立図書館 1階 応接会議室前",
@@ -2109,7 +3687,13 @@
 		"longitude": 136.659837,
 		"address": "石川県金沢市本多町３−２−１５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県立図書館 2階 県民交流室前",
@@ -2117,7 +3701,13 @@
 		"longitude": 136.659837,
 		"address": "石川県金沢市本多町３−２−１５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川図書館（本館） 1階 公開ホール横",
@@ -2125,7 +3715,13 @@
 		"longitude": 136.65169,
 		"address": "石川県金沢市玉川町２-２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川図書館（本館） 1階 事務室横",
@@ -2133,7 +3729,13 @@
 		"longitude": 136.65169,
 		"address": "石川県金沢市玉川町２-２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川図書館（本館） 2階 学習室横",
@@ -2141,7 +3743,13 @@
 		"longitude": 136.65169,
 		"address": "石川県金沢市玉川町２-２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川図書館（近世史料館） 1階",
@@ -2149,7 +3757,13 @@
 		"longitude": 136.651613,
 		"address": "石川県金沢市玉川町２-２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川こども図書館 1階 公開ホール",
@@ -2157,7 +3771,13 @@
 		"longitude": 136.650773,
 		"address": "石川県金沢市玉川町２番２号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川こども図書館 1階 公開ホール",
@@ -2165,7 +3785,13 @@
 		"longitude": 136.650773,
 		"address": "石川県金沢市玉川町２番２号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川こども図書館 2階 交流ホールホワイエ",
@@ -2173,7 +3799,13 @@
 		"longitude": 136.650773,
 		"address": "石川県金沢市玉川町２番２号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川こども図書館 2階 世界の絵本コーナー横",
@@ -2181,7 +3813,13 @@
 		"longitude": 136.650773,
 		"address": "石川県金沢市玉川町２番２号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立玉川こども図書館 3階 展示ホール",
@@ -2189,7 +3827,13 @@
 		"longitude": 136.650773,
 		"address": "石川県金沢市玉川町２番２号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立泉野図書館 地下2階 エレベーター横",
@@ -2197,7 +3841,13 @@
 		"longitude": 136.649318,
 		"address": "石川県金沢市泉野町４丁目２２-２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立泉野図書館 地下1階 階段横",
@@ -2205,7 +3855,13 @@
 		"longitude": 136.649318,
 		"address": "石川県金沢市泉野町４丁目２２-２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立泉野図書館 地下1階 児童図書コーナー内幼児用トイレ",
@@ -2213,7 +3869,13 @@
 		"longitude": 136.649318,
 		"address": "石川県金沢市泉野町４丁目２２-２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立泉野図書館 1階 階段横",
@@ -2221,7 +3883,13 @@
 		"longitude": 136.649318,
 		"address": "石川県金沢市泉野町４丁目２２-２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立泉野図書館 2階 階段横",
@@ -2229,7 +3897,13 @@
 		"longitude": 136.649318,
 		"address": "石川県金沢市泉野町４丁目２２-２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢海みらい図書館 1階 ギャラリー奥",
@@ -2237,7 +3911,13 @@
 		"longitude": 136.604387,
 		"address": "石川県金沢市寺中町イ１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": null
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢海みらい図書館 1階 児童図書コーナー",
@@ -2245,7 +3925,13 @@
 		"longitude": 136.604387,
 		"address": "石川県金沢市寺中町イ１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢海みらい図書館 2階 カウンター裏来客者用",
@@ -2253,7 +3939,13 @@
 		"longitude": 136.604387,
 		"address": "石川県金沢市寺中町イ１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": null
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立平和町児童図書館（平和町児童館併設） 1階 玄関脇",
@@ -2261,7 +3953,13 @@
 		"longitude": 136.666604,
 		"address": "石川県金沢市平和町２−８−５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "中央公民館長町館 1階 西側階段横",
@@ -2269,7 +3967,13 @@
 		"longitude": 136.650124,
 		"address": "石川県金沢市長町２丁目２-４３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "中央公民館長町館 2階 西側階段横",
@@ -2277,7 +3981,13 @@
 		"longitude": 136.650124,
 		"address": "石川県金沢市長町２丁目２-４３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "中央公民館長町館 3階 西側階段横",
@@ -2285,7 +3995,13 @@
 		"longitude": 136.650124,
 		"address": "石川県金沢市長町２丁目２-４３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "中央公民館長町館 4階 西側階段横",
@@ -2293,7 +4009,13 @@
 		"longitude": 136.650124,
 		"address": "石川県金沢市長町２丁目２-４３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市中央公民館彦三館　 1階 裏玄関・階段横",
@@ -2301,7 +4023,13 @@
 		"longitude": 136.659534,
 		"address": "石川県金沢市彦三町１丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市中央公民館彦三館　 2階 裏玄関・階段横",
@@ -2309,7 +4037,13 @@
 		"longitude": 136.659534,
 		"address": "石川県金沢市彦三町１丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市中央公民館彦三館　 3階 裏玄関・階段横",
@@ -2317,7 +4051,13 @@
 		"longitude": 136.659534,
 		"address": "石川県金沢市彦三町１丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 1階 １号館　スタジオＢ手前",
@@ -2325,7 +4065,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 2階 １号館　１２３研修室裏",
@@ -2333,7 +4079,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 3階 １号館　階段横",
@@ -2341,7 +4093,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 4階 １号館　階段横",
@@ -2349,7 +4107,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 1階 ２号館　ＥＮＴ横",
@@ -2357,7 +4121,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 2階 ２号館　事務室前",
@@ -2365,7 +4135,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 3階 ２号館　ティーチャーサポートセンター前",
@@ -2373,7 +4149,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 1階 ３号館　ぞうの部屋入口横",
@@ -2381,7 +4163,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 2階 ３号館　こあらの部屋入口前",
@@ -2389,7 +4177,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 1階 ４号館",
@@ -2397,7 +4191,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市教育プラザ富樫 1階 体育館　入口横",
@@ -2405,7 +4205,13 @@
 		"longitude": 136.641962,
 		"address": "石川県金沢市富樫３丁目１０-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市近江町交流プラザ 3階 ちびっこ広場",
@@ -2413,7 +4219,13 @@
 		"longitude": 136.655885,
 		"address": "石川県金沢市青草町８８（近江町いちば館３・４階）",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市近江町交流プラザ 4階 まなびぃ広場",
@@ -2421,7 +4233,13 @@
 		"longitude": 136.655885,
 		"address": "石川県金沢市青草町８８（近江町いちば館３・４階）",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢学生のまち市民交流館 1階 学生の家　事務室横",
@@ -2429,7 +4247,13 @@
 		"longitude": 136.652001,
 		"address": "石川県金沢市片町２丁目５番１７号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢学生のまち市民交流館 1階 学生の家　サロン横",
@@ -2437,7 +4261,13 @@
 		"longitude": 136.652001,
 		"address": "石川県金沢市片町２丁目５番１７号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢学生のまち市民交流館 1階 交流ホール",
@@ -2445,7 +4275,13 @@
 		"longitude": 136.652001,
 		"address": "石川県金沢市片町２丁目５番１７号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市女性センター 3階",
@@ -2453,7 +4289,13 @@
 		"longitude": 136.645558,
 		"address": "石川県金沢市三社町１番４４号　３階",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立城北児童会館 1階 ホール横",
@@ -2461,7 +4303,13 @@
 		"longitude": 136.671944,
 		"address": "石川県金沢市小坂町西８−１１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立城北児童会館 1階 児童センター",
@@ -2469,7 +4317,13 @@
 		"longitude": 136.671944,
 		"address": "石川県金沢市小坂町西８−１１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立城北児童会館 2階 ホール横",
@@ -2477,7 +4331,13 @@
 		"longitude": 136.671944,
 		"address": "石川県金沢市小坂町西８−１１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢職人大学校 1階 実習棟",
@@ -2485,7 +4345,13 @@
 		"longitude": 136.639064,
 		"address": "石川県金沢市大和町１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": null
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市埋蔵文化財センター 1階 事務室隣",
@@ -2493,7 +4359,13 @@
 		"longitude": 136.591442,
 		"address": "石川県金沢市上安原南６０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市埋蔵文化財センター 2階 中央",
@@ -2501,7 +4373,13 @@
 		"longitude": 136.591442,
 		"address": "石川県金沢市上安原南６０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 地下1階",
@@ -2509,7 +4387,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 1階 内科外来横",
@@ -2517,7 +4401,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 1階 救急外来前",
@@ -2525,7 +4415,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 1階 放射線室前",
@@ -2533,7 +4429,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 2階 健康管理センター",
@@ -2541,7 +4443,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 2階 泌尿器科外来横",
@@ -2549,7 +4457,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 2階 事務局前",
@@ -2557,7 +4471,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 2階 生理機能検査室横",
@@ -2565,7 +4485,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 3階 透析センター",
@@ -2573,7 +4499,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 3階 大講堂前",
@@ -2581,7 +4513,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 3階 東病棟",
@@ -2589,7 +4527,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 4階 東病棟",
@@ -2597,7 +4541,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 5階 東病棟",
@@ -2605,7 +4555,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 5階 西病棟",
@@ -2613,7 +4569,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 6階 東病棟",
@@ -2621,7 +4583,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市立病院 6階 西病棟",
@@ -2629,7 +4597,13 @@
 		"longitude": 136.662512,
 		"address": "石川県金沢市平和町３−７−３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市保健所（駅西福祉健康センター含む） 1階",
@@ -2637,7 +4611,13 @@
 		"longitude": 136.635425,
 		"address": "石川県金沢市西念３丁目４番２５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市保健所（駅西福祉健康センター含む） 2階",
@@ -2645,7 +4625,13 @@
 		"longitude": 136.635425,
 		"address": "石川県金沢市西念３丁目４番２５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市保健所（駅西福祉健康センター含む） 3階",
@@ -2653,7 +4639,13 @@
 		"longitude": 136.635425,
 		"address": "石川県金沢市西念３丁目４番２５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市保健所（駅西福祉健康センター含む） 4階",
@@ -2661,7 +4653,13 @@
 		"longitude": 136.635425,
 		"address": "石川県金沢市西念３丁目４番２５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 1階 非常口横",
@@ -2669,7 +4667,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 1階 デイサービス浴室横",
@@ -2677,7 +4681,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 2階 レントゲン室向かい",
@@ -2685,7 +4695,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 3階 地域包括支援センター向かい",
@@ -2693,7 +4709,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 4階 デイサービスセンター社会適応訓練室向かい",
@@ -2701,7 +4723,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 4階 デイサービスセンター食堂横",
@@ -2709,7 +4737,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:貸し施設内（有料か無料かは主催者や利用団体による）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 5階 泉野こども広場前",
@@ -2717,7 +4751,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "泉野福祉健康センター 6階 倉庫横",
@@ -2725,7 +4765,13 @@
 		"longitude": 136.649467,
 		"address": "石川県金沢市泉野町６丁目１５番５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "元町福祉健康センター 1階",
@@ -2733,7 +4779,13 @@
 		"longitude": 136.66701,
 		"address": "石川県金沢市元町１−１２−１２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "元町福祉健康センター 2階",
@@ -2741,7 +4793,13 @@
 		"longitude": 136.66701,
 		"address": "石川県金沢市元町１−１２−１２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター松寿荘 1階 裏玄関横",
@@ -2749,7 +4807,13 @@
 		"longitude": 136.599539,
 		"address": "石川県金沢市金石北３丁目３番３３号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター松寿荘 2階 大広間付近",
@@ -2757,7 +4821,13 @@
 		"longitude": 136.599539,
 		"address": "石川県金沢市金石北３丁目３番３３号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター松寿荘 3階 スロープ付近",
@@ -2765,7 +4835,13 @@
 		"longitude": 136.599539,
 		"address": "石川県金沢市金石北３丁目３番３３号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "卯辰山公園健康交流センター千寿閣 1階 階段・エレベーター付近",
@@ -2773,7 +4849,13 @@
 		"longitude": 136.689268,
 		"address": "石川県金沢市東長江町辺２番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "卯辰山公園健康交流センター千寿閣 1階 健康温浴施設　男湯脱衣所内",
@@ -2781,7 +4863,13 @@
 		"longitude": 136.689268,
 		"address": "石川県金沢市東長江町辺２番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "卯辰山公園健康交流センター千寿閣 1階 健康温浴施設　女湯脱衣所内",
@@ -2789,7 +4877,13 @@
 		"longitude": 136.689268,
 		"address": "石川県金沢市東長江町辺２番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:有料エリア内",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "卯辰山公園健康交流センター千寿閣 2階 階段・エレベーター付近",
@@ -2797,7 +4891,13 @@
 		"longitude": 136.689268,
 		"address": "石川県金沢市東長江町辺２番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑 1階 ロビー奥",
@@ -2805,7 +4905,13 @@
 		"longitude": 136.677151,
 		"address": "石川県金沢市大桑町ヤ１番地４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑 2階 踊り場付近",
@@ -2813,7 +4919,13 @@
 		"longitude": 136.677151,
 		"address": "石川県金沢市大桑町ヤ１番地４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑 3階 踊り場付近",
@@ -2821,7 +4933,13 @@
 		"longitude": 136.677151,
 		"address": "石川県金沢市大桑町ヤ１番地４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑 1階 浴室内　男湯脱衣所内",
@@ -2829,7 +4947,13 @@
 		"longitude": 136.677151,
 		"address": "石川県金沢市大桑町ヤ１番地４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑 1階 浴室内　女湯脱衣所内",
@@ -2837,7 +4961,13 @@
 		"longitude": 136.677151,
 		"address": "石川県金沢市大桑町ヤ１番地４",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑分館十一屋生きがい交流館 1階 玄関ホール左",
@@ -2845,7 +4975,13 @@
 		"longitude": 136.662391,
 		"address": "石川県金沢市十一屋町４番３４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター万寿苑分館十一屋生きがい交流館 2階 研修室兼多目的室横",
@@ -2853,7 +4989,13 @@
 		"longitude": 136.662391,
 		"address": "石川県金沢市十一屋町４番３４号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター鶴寿園 1階 玄関付近",
@@ -2861,7 +5003,13 @@
 		"longitude": 136.629464,
 		"address": "石川県金沢市額谷町ヌ１番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター鶴寿園 1階 浴室内　男湯脱衣所内",
@@ -2869,7 +5017,13 @@
 		"longitude": 136.629464,
 		"address": "石川県金沢市額谷町ヌ１番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター鶴寿園 1階 浴室内　女湯脱衣所内",
@@ -2877,7 +5031,13 @@
 		"longitude": 136.629464,
 		"address": "石川県金沢市額谷町ヌ１番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市老人福祉センター鶴寿園 2階 大広間付近",
@@ -2885,7 +5045,13 @@
 		"longitude": 136.629464,
 		"address": "石川県金沢市額谷町ヌ１番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市松ヶ枝福祉館 1階",
@@ -2893,7 +5059,13 @@
 		"longitude": 136.653758,
 		"address": "石川県金沢市高岡町７-２５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市松ヶ枝福祉館 2階",
@@ -2901,7 +5073,13 @@
 		"longitude": 136.653758,
 		"address": "石川県金沢市高岡町７-２５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市松ヶ枝福祉館 3階",
@@ -2909,7 +5087,13 @@
 		"longitude": 136.653758,
 		"address": "石川県金沢市高岡町７-２５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市松ヶ枝福祉館 4階",
@@ -2917,7 +5101,13 @@
 		"longitude": 136.653758,
 		"address": "石川県金沢市高岡町７-２５　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢駅こどもらんど 1階",
@@ -2925,7 +5115,13 @@
 		"longitude": 136.64773,
 		"address": "石川県金沢市木ノ新保町１−１　ＪＲ金沢駅あんと内",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢湯涌みどりの里 1階",
@@ -2933,7 +5129,13 @@
 		"longitude": 136.754692,
 		"address": "石川県金沢市湯涌荒屋町４７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市中央卸売市場　関連事業者売場 1階 関連事業者売場　A棟",
@@ -2941,7 +5143,13 @@
 		"longitude": 136.632141,
 		"address": "石川県金沢市西念４丁目７番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市中央卸売市場　関連事業者売場 1階 関連事業者売場　B棟",
@@ -2949,7 +5157,13 @@
 		"longitude": 136.632141,
 		"address": "石川県金沢市西念４丁目７番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県職業能力開発プラザ 1階 階段下",
@@ -2957,7 +5171,13 @@
 		"longitude": 136.646257,
 		"address": "石川県金沢市芳斉１丁目１５番１５号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢商工会議所会館 1階",
@@ -2965,7 +5185,13 @@
 		"longitude": 136.656272,
 		"address": "石川県金沢市尾山町９−１３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢商工会議所会館 2階",
@@ -2973,7 +5199,13 @@
 		"longitude": 136.656272,
 		"address": "石川県金沢市尾山町９−１３",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市西部環境エネルギーセンター 1階 玄関ホール",
@@ -2981,7 +5213,13 @@
 		"longitude": 136.618323,
 		"address": "石川県金沢市東力町ハ３番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市西部環境エネルギーセンター 2階 会議室前",
@@ -2989,7 +5227,13 @@
 		"longitude": 136.618323,
 		"address": "石川県金沢市東力町ハ３番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市西部環境エネルギーセンター 3階 資料展示スペース前",
@@ -2997,7 +5241,13 @@
 		"longitude": 136.618323,
 		"address": "石川県金沢市東力町ハ３番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市西部環境エネルギーセンター 5階 エレベータ横",
@@ -3005,7 +5255,13 @@
 		"longitude": 136.618323,
 		"address": "石川県金沢市東力町ハ３番地１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市東部環境エネルギーセンター 1階 管理棟事務所横",
@@ -3013,7 +5269,13 @@
 		"longitude": 136.678842,
 		"address": "石川県金沢市鳴和台３５７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市東部環境エネルギーセンター 2階 管理棟中央制御室横",
@@ -3021,7 +5283,13 @@
 		"longitude": 136.678842,
 		"address": "石川県金沢市鳴和台３５７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市東部環境エネルギーセンター 2階 工場棟換気ファン室横",
@@ -3029,7 +5297,13 @@
 		"longitude": 136.678842,
 		"address": "石川県金沢市鳴和台３５７番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "末浄水場 1階 管理棟奥",
@@ -3037,7 +5311,13 @@
 		"longitude": 136.699344,
 		"address": "石川県金沢市末町１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局ガスショールーム 1階",
@@ -3045,7 +5325,13 @@
 		"longitude": 136.641779,
 		"address": "石川県金沢市西念１丁目２番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局ガスショールーム 2階",
@@ -3053,7 +5339,13 @@
 		"longitude": 136.641779,
 		"address": "石川県金沢市西念１丁目２番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": null
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢市企業局ガスショールーム 3階",
@@ -3061,7 +5353,13 @@
 		"longitude": 136.641779,
 		"address": "石川県金沢市西念１丁目２番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": null
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢駅東広場地下部 地下1階 金沢駅東広場地下部",
@@ -3069,7 +5367,13 @@
 		"longitude": 136.649293,
 		"address": "石川県金沢市木ノ新保町１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "東金沢駅 1階 東金沢駅東口",
@@ -3077,7 +5381,13 @@
 		"longitude": 136.66969,
 		"address": "石川県金沢市三池町",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "西金沢駅 1階 西金沢駅東口",
@@ -3085,7 +5395,13 @@
 		"longitude": 136.621321,
 		"address": "石川県金沢市西金沢１丁目１　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "森本駅 1階 森本駅東口",
@@ -3093,7 +5409,13 @@
 		"longitude": 136.689604,
 		"address": "石川県金沢市弥勒町ロ６１　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢駅 1階 金沢百番街（あんと）入り口前",
@@ -3101,7 +5423,13 @@
 		"longitude": 136.648481,
 		"address": "石川県金沢市木ノ新保町１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野町駅 1階 待合室内",
@@ -3109,7 +5437,13 @@
 		"longitude": 136.644442,
 		"address": "石川県金沢市野町５丁目６-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:無料エリアと有料エリアがある\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢百番街 1階 あんと内",
@@ -3117,7 +5451,13 @@
 		"longitude": 136.648533,
 		"address": "石川県金沢市木ノ新保町１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢百番街 1階 リント（東口側）",
@@ -3125,7 +5465,13 @@
 		"longitude": 136.648533,
 		"address": "石川県金沢市木ノ新保町１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢百番街 1階 リント（西口側）",
@@ -3133,7 +5479,13 @@
 		"longitude": 136.648533,
 		"address": "石川県金沢市木ノ新保町１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢百番街 2階 くつろぎ館（あんと西）",
@@ -3141,7 +5493,13 @@
 		"longitude": 136.648533,
 		"address": "石川県金沢市木ノ新保町１−１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢フォーラス 2階",
@@ -3149,7 +5507,13 @@
 		"longitude": 136.649825,
 		"address": "石川県金沢市堀川新町３-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "ライブ１ 地下1階 出入口側階段横",
@@ -3157,7 +5521,13 @@
 		"longitude": 136.651422,
 		"address": "石川県金沢市此花町３−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "ライブ１ 2階 すみれクリニック付近",
@@ -3165,7 +5535,13 @@
 		"longitude": 136.651422,
 		"address": "石川県金沢市此花町３−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "ライブ１ 2階 下りエスカレーター前",
@@ -3173,7 +5549,13 @@
 		"longitude": 136.651422,
 		"address": "石川県金沢市此花町３−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "近江町いちば館 地下1階 ドラッグストア横",
@@ -3181,7 +5563,13 @@
 		"longitude": 136.655879,
 		"address": "石川県金沢市青草町８８　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "近江町いちば館 2階 近江屋伝兵衛付近",
@@ -3189,7 +5577,13 @@
 		"longitude": 136.655879,
 		"address": "石川県金沢市青草町８８　",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "かなざわはこまち 2階 東側階段付近",
@@ -3197,7 +5591,13 @@
 		"longitude": 136.65678,
 		"address": "石川県金沢市袋町１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 地下1階 近江町いちば館連絡通路入り口横",
@@ -3205,7 +5605,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 地下1階 食品コーナー奥",
@@ -3213,7 +5619,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 地下1階 ブック宮丸奥",
@@ -3221,7 +5633,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 1階 黒門小路奥",
@@ -3229,7 +5647,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 1階 ANAホリディイン横",
@@ -3237,7 +5661,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 2階 中央吹き抜け横",
@@ -3245,7 +5675,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "めいてつエムザ 2階 ITビジネスプラザ武蔵横",
@@ -3253,7 +5689,13 @@
 		"longitude": 136.655052,
 		"address": "石川県金沢市武蔵町１５-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "大和香林坊店・香林坊アトリオ 地下1階 大和・地下食品フロア",
@@ -3261,7 +5703,13 @@
 		"longitude": 136.654109,
 		"address": "石川県金沢市香林坊１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "大和香林坊店・香林坊アトリオ 地下1階 アトリオ地下",
@@ -3269,7 +5717,13 @@
 		"longitude": 136.654109,
 		"address": "石川県金沢市香林坊１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "大和香林坊店・香林坊アトリオ 1階 アトリオ内",
@@ -3277,7 +5731,13 @@
 		"longitude": 136.654109,
 		"address": "石川県金沢市香林坊１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "大和香林坊店・香林坊アトリオ 2階 大和・婦人ファッションフロア",
@@ -3285,7 +5745,13 @@
 		"longitude": 136.654109,
 		"address": "石川県金沢市香林坊１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "大和香林坊店・香林坊アトリオ 2階 アトリオ内",
@@ -3293,7 +5759,13 @@
 		"longitude": 136.654109,
 		"address": "石川県金沢市香林坊１丁目１番１号",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "香林坊東急スクエア 地下1階 うつのみや奥",
@@ -3301,7 +5773,13 @@
 		"longitude": 136.653239,
 		"address": "石川県金沢市香林坊２丁目１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "香林坊東急スクエア 1階 GF グランドフロア",
@@ -3309,7 +5787,13 @@
 		"longitude": 136.653239,
 		"address": "石川県金沢市香林坊２丁目１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "香林坊東急スクエア 2階",
@@ -3317,7 +5801,13 @@
 		"longitude": 136.653239,
 		"address": "石川県金沢市香林坊２丁目１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "香林坊東急スクエア 1階 スターバックス内（まちかど観光案内所）",
@@ -3325,7 +5815,13 @@
 		"longitude": 136.653239,
 		"address": "石川県金沢市香林坊２丁目１-１",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "片町きらら 2階 エレベータ付近",
@@ -3333,7 +5829,13 @@
 		"longitude": 136.652619,
 		"address": "石川県金沢市片町２−２−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "片町きらら 2階 レストラン内",
@@ -3341,7 +5843,13 @@
 		"longitude": 136.652619,
 		"address": "石川県金沢市片町２−２−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢パティオ 1階 エレベータ横",
@@ -3349,7 +5857,13 @@
 		"longitude": 136.654204,
 		"address": "石川県金沢市竪町４５−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "金沢パティオ 2階 エレベータ横",
@@ -3357,7 +5871,13 @@
 		"longitude": 136.654204,
 		"address": "石川県金沢市竪町４５−２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "九谷焼諸江屋 1階 レジ前",
@@ -3365,7 +5885,13 @@
 		"longitude": 136.65363,
 		"address": "石川県金沢市片町１−３−２２",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "野田屋茶店 1階",
@@ -3373,7 +5899,13 @@
 		"longitude": 136.655502,
 		"address": "石川県金沢市竪町３番地",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "山田時計店 1階",
@@ -3381,7 +5913,13 @@
 		"longitude": 136.661274,
 		"address": "石川県金沢市尾張町２−１０−１５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "和菓子村上十間町店 1階",
@@ -3389,7 +5927,13 @@
 		"longitude": 136.657386,
 		"address": "石川県金沢市十間町９−５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "和菓子村上十間町店 2階",
@@ -3397,7 +5941,13 @@
 		"longitude": 136.657386,
 		"address": "石川県金沢市十間町９−５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "クロネコほっとステーション 1階",
@@ -3405,7 +5955,13 @@
 		"longitude": 136.656114,
 		"address": "石川県金沢市広坂１−１−３５",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県観光物産館 地下1階",
@@ -3413,7 +5969,13 @@
 		"longitude": 136.663238,
 		"address": "石川県金沢市兼六町２−２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県観光物産館 2階",
@@ -3421,7 +5983,13 @@
 		"longitude": 136.663238,
 		"address": "石川県金沢市兼六町２−２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	},
 	{
 		"name": "石川県観光物産館 3階",
@@ -3429,6 +5997,12 @@
 		"longitude": 136.663238,
 		"address": "石川県金沢市兼六町２−２０",
 		"phoneNumber": "",
-		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）"
+		"price": "施設の利用料金:すべて無料\nトイレの利用料金:無料（無料エリア内）",
+		"manOnly": {
+			"powderSpace": 0
+		},
+		"womanOnly": {},
+		"manAndWoman": {},
+		"multiPurpose": {}
 	}
 ]
