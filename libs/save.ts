@@ -12,12 +12,13 @@ const save = (results) => {
   if (fs.existsSync(outputPath)) {
     fs.unlinkSync(outputPath);
   }
+  // Set counter
+  let i = 1;
   // Change structure
   const toilets: IToilet[] = [];
   results.forEach((result) => {
-    result['開館時間'] = result['開館時間'].split('\n');
-
     const toilet: IToilet = {} as IToilet;
+    toilet['id'] = i;
     toilet['name'] = result['名称'];
     toilet['latitude'] = parseFloat(result['緯度']);
     toilet['longitude'] = parseFloat(result['経度']);
@@ -133,6 +134,7 @@ const save = (results) => {
     });
 
     toilets.push(toilet);
+    i++;
   });
   // Create json
   fs.writeFileSync(outputPath, JSON.stringify(toilets, null, '\t'));
