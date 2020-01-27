@@ -35,6 +35,15 @@ const save = (results) => {
     details.forEach(detail => {
       const title = detail.split(':')[0];
       switch (title) {
+        case '男性専用トイレ_小便器台数':
+          toilet['manOnly']['urinalNum'] = getNum(detail);
+          break;
+        case '男性専用トイレ_洋式トイレ台数':
+          toilet['manOnly']['westernStyleNum'] = getNum(detail);
+          break;
+        case '男性専用トイレ_和式トイレ台数':
+          toilet['manOnly']['japaneseStyleNum'] = getNum(detail);
+          break;
         case '男性専用トイレ_パウダースペース':
           toilet['manOnly']['powderSpace'] = getNum(detail);
           break;
@@ -52,6 +61,12 @@ const save = (results) => {
           break;
         case '男性専用トイレ_おむつ交換台':
           toilet['manOnly']['diaperChangingTable'] = getNum(detail);
+          break;
+        case '女性専用トイレ_洋式トイレ台数':
+          toilet['womanOnly']['westernStyleNum'] = getNum(detail);
+          break;
+        case '女性専用トイレ_和式トイレ台数':
+          toilet['womanOnly']['japaneseStyleNum'] = getNum(detail);
           break;
         case '女性専用トイレ_パウダースペース':
           toilet['womanOnly']['powderSpace'] = getNum(detail);

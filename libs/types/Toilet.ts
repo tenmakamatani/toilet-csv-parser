@@ -13,6 +13,9 @@ export interface IToilet {
 
 // 多目的トイレ以外の概略部分
 export interface INotMultiPurposeToilet {
+  urinalNum?: number           // 小便器台数
+  westernStyleNum: number;     // 洋式トイレの数
+  japaneseStyleNum: number;    // 和式トイレの数
   powderSpace: number;         // パウダースペース
   changingSpace: number;       // 着替え台・スペース
   babyChair: number;           // ベビーチェア
