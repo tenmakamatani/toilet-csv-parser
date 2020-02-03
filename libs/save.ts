@@ -39,7 +39,6 @@ const save = (results) => {
           toilet['availableUsers'] = detail.replace(/トイレの利用可能者:/, '');
           break;
         case 'その他特記事項等':
-          console.log(detail);
           toilet['otherNoteworthyThings'] = detail.replace(/その他特記事項等:/, '');
           break;
         case '男性専用トイレ_小便器台数':
