@@ -5,6 +5,8 @@ export interface IToilet {
   address: string;     // 住所
   phoneNumber: string; // 電話番号
   price: string;       // 料金
+  otherNoteworthyThings: string; // その他特記事項
+  availableUsers: string;        // 利用可能者
   manOnly: INotMultiPurposeToilet;
   womanOnly: INotMultiPurposeToilet;
   manAndWoman: INotMultiPurposeToilet;
