@@ -24,7 +24,9 @@ const save = (results) => {
     toilet['longitude'] = parseFloat(result['経度']);
     toilet['address'] = result['住所'];
     toilet['phoneNumber'] = result['電話番号'];
-    toilet['price'] = result['料金'];
+    const prices = result['料金'].split('\n');
+    toilet['facilityPrice'] = prices[0].replace(/施設の利用料金:/, '');
+    toilet['toiletPrice'] = prices[1].replace(/トイレの利用料金:/, '');
 
     toilet['manOnly'] = {} as INotMultiPurposeToilet;
     toilet['womanOnly'] = {} as INotMultiPurposeToilet;
